@@ -106,7 +106,7 @@ export default function Contact() {
             </div>
             <div className="field">
               <label htmlFor="telefoon">Telefoon</label>
-              <input type="tel" id="telefoon" name="telefoon" placeholder="06 12 34 56 78" autoComplete="tel" />
+              <input type="tel" id="telefoon" name="telefoon" placeholder="Optioneel" autoComplete="tel" />
             </div>
           </div>
           <div className="field">
